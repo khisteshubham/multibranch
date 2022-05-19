@@ -5,7 +5,7 @@ pipeline
 	  node
 	   {
 	      label 'built-in'
-		customWorkspace "/mnt/project/
+		customWorkspace "/mnt/project/"
 	   }	   
 
 	}
