@@ -16,7 +16,7 @@ pipeline
 		 {
 			steps 
 			 {
-			   sh 'echo "This is Pravin the Teacher" > pravin.txt'
+			   sh 'echo "This is shubh the Learner" > shubh.txt'
 			 }
 		 }
 	 }
