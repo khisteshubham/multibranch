@@ -16,7 +16,7 @@ pipeline
 		 {
 			steps 
 			 {
-			   sh 'echo "This is shubh the Learner" > shubh.txt'
+			   sh 'echo "This is shubh only" > shubh2.txt'
 			 }
 		 }
 	 }
